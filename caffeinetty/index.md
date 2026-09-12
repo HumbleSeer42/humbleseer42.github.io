@@ -1,6 +1,8 @@
 ---
 layout: default
 title: CaffeineTTY
+tagline: A modern terminal written in Java
+permalink: /caffeinetty/
 ---
 
 # CaffeineTTY - A terminal written in Java 
