@@ -1,3 +1,8 @@
+---
+layout: default
+title: CaffeineTTY
+---
+
 # CaffeineTTY - A terminal written in Java 
 [![Java CI with Gradle](https://github.com/HumbleSeer42/CaffeineTTY/actions/workflows/gradle.yml/badge.svg?branch=main)](https://github.com/HumbleSeer42/CaffeineTTY/actions/workflows/gradle.yml)
 
