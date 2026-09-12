@@ -17,6 +17,7 @@ Run:
 ```
 
 # Supported Versions
+
 | Canonical | Chrono | Supported |
 |---|---|---|
 | &lt; 0.1.0 | &lt; 2026.0.1 | ❌️ |
